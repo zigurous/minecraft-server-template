@@ -16,7 +16,7 @@ To play with friends you must open a network connection to the server via your I
 
 ## Generating a World Map
 
-Included in the template is the popular [Minecraft Overviewer](https://overviewer.org/) library. It is already set up to generate a world map from your server's world data. Simply run the batch file `generate_map.bat` inside the `/scripts` directory. By default, it is set up to generate a simple day/night map. The output will be placed inside the `/map` directory.
+Included in the template is the popular [Minecraft Overviewer](https://overviewer.org/) library. First unzip the `overviewer.zip` file in `/lib`, then simply run the batch file `generate_map.bat` inside the `/scripts` directory. By default, it is set up to generate a simple day/night map. The output will be placed inside the `/map` directory.
 
 You can generate a full map (overworld, nether, the end, etc) by modifying the batch file and changing `simplemap.config` to `fullmap.config`. If you'd like, you can even customize the map configs or create new ones.
 
