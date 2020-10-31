@@ -1,0 +1,5 @@
+map/
+server/logs/
+server/world/
+
+usercache.json
