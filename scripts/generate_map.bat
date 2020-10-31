@@ -1,4 +1,4 @@
-CD "../lib/overviewer/"
+cd "../lib/overviewer/"
 overviewer.exe --config="../../config/simplemap.config"
-PAUSE
-EXIT
+pause
+exit
