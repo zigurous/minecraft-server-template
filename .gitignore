@@ -1,4 +1,5 @@
 map/
+lib/overviewer/
 server/logs/
 server/world/
 server/world_backup/
