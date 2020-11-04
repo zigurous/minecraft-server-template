@@ -1,2 +1,1 @@
-cd "../server/"
-robocopy "./world/" "./world_backup/" /E
+robocopy "%~dp0..\server\world" "%~dp0..\server\world_backup" /E
