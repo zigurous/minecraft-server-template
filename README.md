@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Clone the repo and run the batch file `start_server.bat` inside the `/scripts` directory. This will generate the initial world files and any other necessary data. It might take a few minutes initially to generate the world. Once the spawn area is finished loading, you should be able to connect to the server by entering `localhost` as the server address in the Minecraft client.
+Clone the repo and run the batch file `run.bat` inside the `/scripts` directory. This will generate the initial world files and any other necessary data. It might take a few minutes initially to generate the world. Once the spawn area is finished loading, you should be able to connect to the server by entering `localhost` as the server address in the Minecraft client.
 
 ## Changing Server Properties
 
@@ -12,7 +12,7 @@ Server properties can be changed by opening the file `server.properties` located
 
 ## Connecting Players
 
-To play with friends you must open a network connection to the server via your IP address, which your friends will use to connect. You will also need to set up port forwarding inside your router settings. Detailed instructions on how to do this can be found on the [Minecraft Wiki](https://minecraft.gamepedia.com/Tutorials/Setting_up_a_server).
+To play with friends you must open a network connection to the server via your public IP address, which your friends will use to connect. You will also need to set up port forwarding inside your router settings. Detailed instructions on how to do this can be found on the [Minecraft Wiki](https://minecraft.gamepedia.com/Tutorials/Setting_up_a_server).
 
 ## Generating a World Map
 
